@@ -1,4 +1,10 @@
 h1,h2,h3{
     background-color: aqua;
     font-size: medium;
+
+}
+p
+{
+text-align: center;
+text-decoration: solid;
 }
